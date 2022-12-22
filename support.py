@@ -10,7 +10,7 @@ import tkinter
 from tkinter import filedialog as fd
 
 def open_file():
-    """Sebuah fungsi private untuk membuka file melalui popup dialog
+    """Sebuah fungsi untuk membuka file melalui popup dialog
 
     Args:
 
